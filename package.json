@@ -1,7 +1,7 @@
 {
-    "name": "reactjs-vite-tailwind-vercel",
+    "name": "cap-petite-enfance-quiz-revision",
     "version": "1.0.0",
-    "description": "ReactJS app with Vite, Tailwind",
+    "description": "CAP Petite Enfance - Quiz & Révision: A gamified quiz and revision tool for CAP Accompagnant Éducatif Petite Enfance.",
     "type": "module",
     "scripts": {
         "dev": "vite",
@@ -12,7 +12,8 @@
     "dependencies": {
         "@sentry/browser": "^8.41.0",
         "react": "^18.2.0",
-        "react-dom": "^18.2.0"
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^6.14.1"
     },
     "devDependencies": {
         "@vitejs/plugin-react": "^4.3.4",
